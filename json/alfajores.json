@@ -1,0 +1,10 @@
+[
+    {"id":1, "nombre":"Alfajor de Chocolate",        "precio":120, "img":"img/ddlChocoNegro.png"},
+    {"id":2, "nombre":"Alfajor de Chocolate blanco", "precio":130, "img":"img/ddlChocoBlanco.png"},
+    {"id":3, "nombre":"Alfajor de Chocolate Amargo", "precio":230, "img":"img/chocoAmargo.png"},
+    {"id":4, "nombre":"Alfajor de Fruta",            "precio":100, "img":"img/fruta.png"},
+    {"id":5, "nombre":"Alfajor de Maicena",          "precio":170, "img":"img/maicena.png"},
+    {"id":6, "nombre":"Alfajor de Coco",             "precio":250, "img":"img/coco.png"},
+    {"id":7, "nombre":"Alfajor Santafesino",         "precio":160, "img":"img/santafesino.png"}
+
+]

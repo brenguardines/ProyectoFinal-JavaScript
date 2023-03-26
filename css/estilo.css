@@ -1,0 +1,70 @@
+.imgAlfajores{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    margin-top: 1rem;
+}
+
+.nombreAlfajor{
+    text-align: center;
+    font-size: 19px;
+}
+
+.contenedorPrecio{
+    display: flex;
+    justify-content: center;
+}
+
+.contenedorCant{
+    display: flex;
+}
+
+.signoPeso{
+    color: blue;
+    font-weight: bold;
+}
+
+.precioAlfajor{
+    color: blue;
+    font-weight: bold;
+}
+
+.cantAlfjs{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.colorBoton{
+    color: white;
+    background-color: #4494e5;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.colorBoton:hover{
+    background-color: rgb(30, 127, 180);
+    color: white;
+}
+
+.input {
+    width: 50px;
+    height: 31px;
+    margin: 1rem;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    margin: 0.5rem;
+}
+
+.card:hover{
+    background-color: bisque;
+}
+
+header{
+    height: 10vh;
+}
